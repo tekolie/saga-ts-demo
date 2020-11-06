@@ -1,0 +1,4 @@
+export const GET_USER_DETAILS_AND_SHOW = "GET_USER_DETAILS_AND_SHOW";
+export const SET_GITHUB_USER = "SET_GITHUB_USER";
+export const SET_NEWS = "SET_NEWS";
+export const SET_TV_SHOWS = "SET_TV_SHOWS";
